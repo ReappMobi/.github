@@ -19,7 +19,7 @@ This project is made possible by the contributions of the following individuals 
   * **Marcella Abreu** - [santos.marcellaabreu@gmail.com](mailto:santos.marcellaabreu@gmail.com)
 
 * **Producers**:
-  * **Rosendy Galabo**
+  * **Rosendy Galabo** - [r.galabo@lancaster.ac.uk](mailto:r.galabo@lancaster.ac.uk)
   * **Carlos de Salles Soares Neto** - [carlos.salles@ufma.br](mailto:carlos.salles@ufma.br)
   * **Jovemar dos Santos da Silva Junior** - [atendimentojove@gmail.com](mailto:atendimentojove@gmail.com)
 
